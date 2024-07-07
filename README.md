@@ -1,5 +1,6 @@
 ### ABOUT ME
-![Profile picture](https://github.com/SEYI-FASE/Seyi-fase/assets/134503256/0f9968a5-4c46-49fd-bb97-ac59ff4c7148)
+ 
+ ![Profile picture](https://github.com/SEYI-FASE/Seyi-fase/assets/134503256/0f9968a5-4c46-49fd-bb97-ac59ff4c7148)
 
 I am a graduate of Insurance cum professional firefighter turned data analyst with a strong passion for leveraging data by identifying trends, patterns and anomalies to drive business decisions with proficiency in the use of Excel, SQL, Power BI and Tableau.
 
