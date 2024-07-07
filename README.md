@@ -1,9 +1,7 @@
-## MY PORTFOLIO
-
 ### ABOUT ME
 ![Profile picture](https://github.com/SEYI-FASE/Seyi-fase/assets/134503256/0f9968a5-4c46-49fd-bb97-ac59ff4c7148)
 
-I am a graduate of insurance cum professional firefighter turned data analyst with a strong passion for leveraging data by identifying trends, patterns and anomalies to drive business decisions with proficiency in the use of Excel, SQL, Power BI and Tableau.
+I am a graduate of Insurance cum professional firefighter turned data analyst with a strong passion for leveraging data by identifying trends, patterns and anomalies to drive business decisions with proficiency in the use of Excel, SQL, Power BI and Tableau.
 
 ### HOW THE JOURNEY BEGAN!
 Being a firefighter for over seven years, I have developed the skills of team work, problem-solving, understanding emergency response, analysing of Incident reports and performance metrics for improvements in operations. Data Analysis is a field that can be explored by individuals of diverse backgrounds in which I have developed a keen interest in. Due to the steady rise in the demand for Data Analysts, I decided to embark on equipping myself with knowledge and on how to use the necessary tools in this field. The skills I have honed made the transition in Data Analysis a smooth one.
