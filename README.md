@@ -9,8 +9,10 @@ Being a firefighter for over seven years, I have developed the skills of team wo
 
 ### PROJECTS
 ![Udemy front ](https://github.com/SEYI-FASE/Seyi-fase/assets/134503256/7642cac3-a818-4ed5-932b-3acdbe56f47f)
+[View Project Here!](https://medium.com/@rachel.laderules/4e5459659ec7)
 
-### [View Project Here!](https://medium.com/@rachel.laderules/4e5459659ec7)
+![customer churn front page](https://github.com/user-attachments/assets/cc75384b-8318-4eee-b382-ed45c2f0d218)
+ [View project here!](https://medium.com/@rachel.laderules/customer-churn-prediction-2f40ba365f28)
 
 ### CONTACT ME 
 #### Email me : Rachel.laderules@gmail.com
